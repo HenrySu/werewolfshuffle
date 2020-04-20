@@ -1,0 +1,26 @@
+{
+  "Rule": {
+    "Role2Count": {
+      "Judge": 1,
+      "Wolf": 3,
+      "Prophet": 1,
+      "Witch": 1,
+      "Hunter": 1,
+      "Cupid": 1,
+      "Villager": 6
+    },
+    "JudgeEmail": ""
+  },
+
+  "Attendees": [
+    {
+      "name": "John",
+      "email": "John@gmail.com"
+    },
+    {
+      "name": "Albert",
+      "email": "Albert@qq.com"
+    }
+  ]
+
+}
